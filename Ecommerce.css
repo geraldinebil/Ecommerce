@@ -1,1 +1,7 @@
-
+body{
+    background-image: url(ciel-bleu-fond-frontière-photo-sous-licence_csp13223229.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 2000px;
+    height: 500px;
+}
